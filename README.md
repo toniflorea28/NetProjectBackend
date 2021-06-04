@@ -1,6 +1,6 @@
 <h1>Steps to setup project</h1>
 
-<h3>You need XAMPP, Composer and NodeJS to run this project locally</h3>
+<h3>!! You need XAMPP, Composer and NodeJS to run this project locally !!</h3>
 <ol>
 <li>
 git clone git@github.com:toniflorea28/NetProjectBackend.git
